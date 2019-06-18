@@ -1,0 +1,20 @@
+NOTE:
+for use source code decision tree
+
+
+Hi dear user
+this document created it by Mahdi Safari student of Ibn-e Sina University
+
+add Library
+first update your [pip & setuptools & wheel] in python
+second install all these library on your python
+1. matplotlib
+2. numpy
+3. pandas
+4. graphviz
+5. scipy
+6. scikit-learn
+
+
+ATTENTION:
+your python version most be python2.7 or new version
